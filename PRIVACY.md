@@ -23,6 +23,6 @@ DocuMergePDF operates completely standalone without connections to third-party c
 ## 5. Contact Information
 If you have any questions or feedback regarding this Privacy Policy, please contact:
 - **Developer:** SereneWorks
-- **Email:** lenguyengiahoa200777@gmail.com
+- **Email:** hoanguyencvnta05@gmail.com
 - **Website / Repository:** https://github.com/NguyenLeGiaHoa/docu-merge-pdf
 
