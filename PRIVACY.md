@@ -25,3 +25,4 @@ If you have any questions or feedback regarding this Privacy Policy, please cont
 - **Developer:** SereneWorks
 - **Email:** lenguyengiahoa200777@gmail.com
 - **Website / Repository:** https://github.com/NguyenLeGiaHoa/docu-merge-pdf
+
