@@ -79,7 +79,7 @@ def create_manifest():
     ProcessorArchitecture="x64" />
 
   <Properties>
-    <DisplayName>DocuMergePDF</DisplayName>
+    <DisplayName>Docu Merge PDF</DisplayName>
     <PublisherDisplayName>{PUBLISHER_DISPLAY_NAME}</PublisherDisplayName>
     <Logo>Assets\\StoreLogo.png</Logo>
     <Description>Mail Merge Word &amp; Excel to Individual PDFs. Fast, secure, and 100% offline.</Description>
@@ -102,8 +102,8 @@ def create_manifest():
       Executable="DocuMergePDF.exe"
       EntryPoint="Windows.FullTrustApplication">
       <uap:VisualElements
-        DisplayName="DocuMergePDF"
-        Description="DocuMergePDF - Mail Merge Word &amp; Excel to Individual PDFs"
+        DisplayName="Docu Merge PDF"
+        Description="Docu Merge PDF - Mail Merge Word &amp; Excel to Individual PDFs"
         BackgroundColor="transparent"
         Square150x150Logo="Assets\\Square150x150Logo.png"
         Square44x44Logo="Assets\\Square44x44Logo.png">

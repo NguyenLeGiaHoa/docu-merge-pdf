@@ -195,3 +195,4 @@ if __name__ == "__main__":
     capture_real_screenshots()
     clean_assets()
     print("[SUCCESS] All DocuMergePDF assets ready!")
+
