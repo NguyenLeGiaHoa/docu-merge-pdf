@@ -1,0 +1,21 @@
+DOCUMERGEPDF END USER LICENSE AGREEMENT (EULA) & COMMERCIAL TERMS
+
+Copyright (c) 2026 SereneWorks. All rights reserved.
+
+1. GRANT OF LICENSE
+Subject to the terms of this Agreement, SereneWorks grants you a non-exclusive, non-transferable license to use DocuMergePDF for personal or commercial purposes according to your license tier:
+a) Free Trial Tier: Allows unlimited inspection of Word templates and unlimited single-document Row 1 test generations, plus five (5) full-power batch merge sessions.
+b) Lifetime Commercial Tier: Unlocks permanent, unlimited batch document merges on authorized devices.
+
+2. LOCAL-FIRST PRIVACY GUARANTEE
+DocuMergePDF operates 100% locally on your computer. The software does not transmit, store, or process your templates, spreadsheets, employee payroll, student records, or output PDF documents on external cloud servers.
+
+3. DISCLAIMER OF WARRANTIES (UCC § 2-316)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. LIMITATION OF LIABILITY (UCC § 2-719)
+IN NO EVENT SHALL SERENEWORKS' AGGREGATE LIABILITY EXCEED THE LESSER OF THE PURCHASE PRICE ACTUALLY PAID BY YOU FOR THE SOFTWARE OR ONE DOLLAR ($1.00 USD).
+
+5. TRADEMARKS
+Microsoft, Word, Excel, Office, and Windows are registered trademarks of Microsoft Corporation. DocuMergePDF is an independent software tool and is not affiliated with, endorsed by, or sponsored by Microsoft Corporation.
+

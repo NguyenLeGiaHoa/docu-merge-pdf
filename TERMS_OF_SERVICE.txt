@@ -1,0 +1,20 @@
+DOCUMERGEPDF - TERMS OF SERVICE, TRADEMARKS & LEGAL IMMUNITY
+Version: 2026.1-UCC-SHIELD
+
+PLEASE READ THESE TERMS CAREFULLY BEFORE USING DOCUMERGEPDF. BY DOWNLOADING, INSTALLING, OR USING THIS SOFTWARE, YOU AGREE TO BE BOUND BY ALL TERMS AND CONDITIONS BELOW.
+
+1. NEUTRAL LOCAL UTILITY & NON-FIDUCIARY STATUS
+DocuMergePDF is strictly an independent, neutral offline document formatting and mail-merge desktop utility designed to automate placeholder replacement into individual PDF files. SereneWorks does not provide legal, educational accreditation, financial, tax, or employment advice, and is not an educational certifying institution, payroll processor, accounting service, or legal firm.
+
+2. ABSOLUTE "AS IS" AND "WITH ALL FAULTS" DISCLAIMER (UCC § 2-316)
+THE SOFTWARE IS PROVIDED "AS IS" WITH ALL FAULTS AND DEFECTS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE DEVELOPER EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND ACCURACY OF OUTPUT DATA.
+
+3. EXCLUSIVE REMEDY AND MONETARY LIABILITY CEILING (UCC § 2-719)
+UNDER NO CIRCUMSTANCES SHALL THE DEVELOPER, ITS AFFILIATES, OFFICERS, OR AGENTS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES (INCLUDING LOSS OF PROFITS, LOST PROFITS, BUSINESS INTERRUPTION, LOSS OF DATA, STUDENT CERTIFICATE DISPUTES, OR PAYROLL ERRORS).
+THE TOTAL AGGREGATE LIABILITY OF THE DEVELOPER FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THIS SOFTWARE SHALL NEVER EXCEED ONE DOLLAR ($1.00 USD) OR THE ACTUAL FEES PAID IN THE PRECEDING TWELVE MONTHS.
+
+4. 100% USER RESPONSIBILITY & INDEMNIFICATION
+You acknowledge that you retain sole responsibility for reviewing and verifying the accuracy, format, and legal sufficiency of all generated documents, contracts, payslips, and certificates before distribution. You agree to defend, indemnify, and hold harmless the developer from any third-party claims arising from documents created with this software.
+
+5. INTELLECTUAL PROPERTY & NOMINATIVE FAIR USE TRADEMARKS
+Microsoft, Microsoft Word, Microsoft Excel, Microsoft Office, and Windows are registered trademarks of Microsoft Corporation in the United States and other countries. Use of these names is strictly for nominative identification of document compatibility under fair use principles. SereneWorks is an independent entity with no corporate affiliation with Microsoft Corporation and is NOT AFFILIATED with, sponsored by, or endorsed by Microsoft Corporation.

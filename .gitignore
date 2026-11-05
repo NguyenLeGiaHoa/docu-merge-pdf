@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# Build & Large Binary Artifacts (exceed GitHub limits)
+build/
+dist/
+MSIX_PACKAGE_BUILD/
+GUMROAD_UPLOAD_PACKAGES/
+*.exe
+*.msix
+*.log
+
+# Caches & Test
+.pytest_cache/
+.venv/
+venv/
